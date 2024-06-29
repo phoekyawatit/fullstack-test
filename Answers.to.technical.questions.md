@@ -1,5 +1,8 @@
 How long did you spend on the coding test? What additional features would you consider implementing if you had more time?
-Ans: There are alot of features that I would like to implement if I have more time: 
+Ans: 
+Honestly , I spend around 3.5/4 Hrs to complete this test.
+
+There are alot of features that I would like to implement if I have more time: 
 - Translations (property , geo)
 - Property Galleries 
 - Inquiry & Conact Email
