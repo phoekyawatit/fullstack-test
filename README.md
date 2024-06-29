@@ -1,7 +1,7 @@
 # Full Stack Developer Test - FazWaz
 
 # Set up the project
-git clone https://github.com/phoekyawatit/fullstack-test.git
+git clone https://github.com/phoekyawatit/fullstack-test.git <br/>
 git checkout main 
 git pull origin main
 

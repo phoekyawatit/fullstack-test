@@ -14,6 +14,7 @@
       "bathrooms": 5,
       "area": 87,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -40,6 +41,7 @@
       "bathrooms": 1,
       "area": 82,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Phuket",
@@ -66,6 +68,7 @@
       "bathrooms": 3,
       "area": 63,
       "area_type": "sqm",
+      "date": "2024-06-20",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -92,6 +95,7 @@
       "bathrooms": 4,
       "area": 70,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chiang Mai",
@@ -118,6 +122,7 @@
       "bathrooms": 4,
       "area": 127,
       "area_type": "sqm",
+      "date": "2024-06-21",
       "geo": {
           "country": "Thailand",
           "province": "Chiang Mai",
@@ -144,6 +149,7 @@
       "bathrooms": 4,
       "area": 146,
       "area_type": "sqm",
+      "date": "2024-06-21",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -170,6 +176,7 @@
       "bathrooms": 2,
       "area": 124,
       "area_type": "sqm",
+      "date": "2024-06-21",
       "geo": {
           "country": "Thailand",
           "province": "Chiang Mai",
@@ -196,6 +203,7 @@
       "bathrooms": 3,
       "area": 45,
       "area_type": "sqm",
+      "date": "2024-06-21",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -222,6 +230,7 @@
       "bathrooms": 3,
       "area": 145,
       "area_type": "sqm",
+      "date": "2024-06-21",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -248,6 +257,7 @@
       "bathrooms": 1,
       "area": 66,
       "area_type": "sqm",
+      "date": "2024-06-21",
       "geo": {
           "country": "Thailand",
           "province": "Phuket",
@@ -274,6 +284,7 @@
       "bathrooms": 1,
       "area": 65,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Phuket",
@@ -300,6 +311,7 @@
       "bathrooms": 3,
       "area": 35,
       "area_type": "sqm",
+      "date": "2024-06-01",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -326,6 +338,7 @@
       "bathrooms": 2,
       "area": 150,
       "area_type": "sqm",
+      "date": "2024-06-01",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -352,6 +365,7 @@
       "bathrooms": 5,
       "area": 78,
       "area_type": "sqm",
+      "date": "2024-06-01",
       "geo": {
           "country": "Thailand",
           "province": "Chiang Mai",
@@ -378,6 +392,7 @@
       "bathrooms": 3,
       "area": 83,
       "area_type": "sqm",
+      "date": "2024-06-01",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -404,6 +419,7 @@
       "bathrooms": 3,
       "area": 33,
       "area_type": "sqm",
+      "date": "2024-06-01",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -430,6 +446,7 @@
       "bathrooms": 1,
       "area": 65,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -456,6 +473,7 @@
       "bathrooms": 1,
       "area": 38,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chiang Mai",
@@ -482,6 +500,7 @@
       "bathrooms": 5,
       "area": 119,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -508,6 +527,7 @@
       "bathrooms": 5,
       "area": 117,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -534,6 +554,7 @@
       "bathrooms": 1,
       "area": 73,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -560,6 +581,7 @@
       "bathrooms": 5,
       "area": 146,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -586,6 +608,7 @@
       "bathrooms": 5,
       "area": 102,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chiang Mai",
@@ -612,6 +635,7 @@
       "bathrooms": 4,
       "area": 97,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -638,6 +662,7 @@
       "bathrooms": 3,
       "area": 54,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -664,6 +689,7 @@
       "bathrooms": 1,
       "area": 144,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -690,6 +716,7 @@
       "bathrooms": 3,
       "area": 88,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -716,6 +743,7 @@
       "bathrooms": 2,
       "area": 57,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -742,6 +770,7 @@
       "bathrooms": 1,
       "area": 54,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Phuket",
@@ -768,6 +797,7 @@
       "bathrooms": 2,
       "area": 62,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -794,6 +824,7 @@
       "bathrooms": 3,
       "area": 137,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -820,6 +851,7 @@
       "bathrooms": 2,
       "area": 149,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chiang Mai",
@@ -846,6 +878,7 @@
       "bathrooms": 5,
       "area": 93,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -872,6 +905,7 @@
       "bathrooms": 1,
       "area": 150,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -898,6 +932,7 @@
       "bathrooms": 5,
       "area": 118,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -924,6 +959,7 @@
       "bathrooms": 4,
       "area": 55,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -950,6 +986,7 @@
       "bathrooms": 2,
       "area": 61,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -976,6 +1013,7 @@
       "bathrooms": 2,
       "area": 50,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -1002,6 +1040,7 @@
       "bathrooms": 4,
       "area": 142,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Phuket",
@@ -1028,6 +1067,7 @@
       "bathrooms": 5,
       "area": 96,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -1054,6 +1094,7 @@
       "bathrooms": 3,
       "area": 48,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -1080,6 +1121,7 @@
       "bathrooms": 4,
       "area": 127,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Phuket",
@@ -1106,6 +1148,7 @@
       "bathrooms": 4,
       "area": 51,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -1132,6 +1175,7 @@
       "bathrooms": 4,
       "area": 127,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -1158,6 +1202,7 @@
       "bathrooms": 5,
       "area": 102,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -1184,6 +1229,7 @@
       "bathrooms": 3,
       "area": 140,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -1210,6 +1256,7 @@
       "bathrooms": 1,
       "area": 134,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -1236,6 +1283,7 @@
       "bathrooms": 4,
       "area": 85,
       "area_type": "sqm",
+      "date": "2024-06-19",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -1262,6 +1310,7 @@
       "bathrooms": 2,
       "area": 129,
       "area_type": "sqm",
+      "date": "2024-06-19",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -1288,6 +1337,7 @@
       "bathrooms": 3,
       "area": 73,
       "area_type": "sqm",
+      "date": "2024-06-19",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -1314,6 +1364,7 @@
       "bathrooms": 2,
       "area": 99,
       "area_type": "sqm",
+      "date": "2024-06-19",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -1340,6 +1391,7 @@
       "bathrooms": 4,
       "area": 148,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chiang Mai",
@@ -1366,6 +1418,7 @@
       "bathrooms": 3,
       "area": 138,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -1392,6 +1445,7 @@
       "bathrooms": 2,
       "area": 126,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chiang Mai",
@@ -1418,6 +1472,7 @@
       "bathrooms": 5,
       "area": 80,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -1444,6 +1499,7 @@
       "bathrooms": 1,
       "area": 36,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -1470,6 +1526,7 @@
       "bathrooms": 4,
       "area": 74,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -1496,6 +1553,7 @@
       "bathrooms": 4,
       "area": 62,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -1522,6 +1580,7 @@
       "bathrooms": 1,
       "area": 119,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -1548,6 +1607,7 @@
       "bathrooms": 5,
       "area": 112,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -1574,6 +1634,7 @@
       "bathrooms": 1,
       "area": 71,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -1600,6 +1661,7 @@
       "bathrooms": 4,
       "area": 49,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -1626,6 +1688,7 @@
       "bathrooms": 1,
       "area": 117,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Phuket",
@@ -1652,6 +1715,7 @@
       "bathrooms": 5,
       "area": 116,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -1678,6 +1742,7 @@
       "bathrooms": 3,
       "area": 120,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -1704,6 +1769,7 @@
       "bathrooms": 4,
       "area": 100,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -1730,6 +1796,7 @@
       "bathrooms": 5,
       "area": 117,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -1756,6 +1823,7 @@
       "bathrooms": 3,
       "area": 34,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -1782,6 +1850,7 @@
       "bathrooms": 5,
       "area": 91,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -1808,6 +1877,7 @@
       "bathrooms": 1,
       "area": 74,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Phuket",
@@ -1834,6 +1904,7 @@
       "bathrooms": 5,
       "area": 138,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -1860,6 +1931,7 @@
       "bathrooms": 3,
       "area": 90,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -1886,6 +1958,7 @@
       "bathrooms": 5,
       "area": 139,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -1912,6 +1985,7 @@
       "bathrooms": 4,
       "area": 126,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -1938,6 +2012,7 @@
       "bathrooms": 5,
       "area": 58,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -1964,6 +2039,7 @@
       "bathrooms": 5,
       "area": 143,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -1990,6 +2066,7 @@
       "bathrooms": 4,
       "area": 88,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -2016,6 +2093,7 @@
       "bathrooms": 3,
       "area": 68,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -2042,6 +2120,7 @@
       "bathrooms": 5,
       "area": 51,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -2068,6 +2147,7 @@
       "bathrooms": 4,
       "area": 34,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Phuket",
@@ -2094,6 +2174,7 @@
       "bathrooms": 1,
       "area": 107,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -2120,6 +2201,7 @@
       "bathrooms": 3,
       "area": 71,
       "area_type": "sqm",
+      "date": "2024-06-01",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -2146,6 +2228,7 @@
       "bathrooms": 3,
       "area": 120,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chiang Mai",
@@ -2172,6 +2255,7 @@
       "bathrooms": 5,
       "area": 33,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Bangkok",
@@ -2198,6 +2282,7 @@
       "bathrooms": 3,
       "area": 87,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -2224,6 +2309,7 @@
       "bathrooms": 5,
       "area": 108,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -2250,6 +2336,7 @@
       "bathrooms": 5,
       "area": 98,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -2276,6 +2363,7 @@
       "bathrooms": 3,
       "area": 85,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chiang Mai",
@@ -2302,6 +2390,7 @@
       "bathrooms": 1,
       "area": 46,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Samut Prakan",
@@ -2328,6 +2417,7 @@
       "bathrooms": 3,
       "area": 40,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -2354,6 +2444,7 @@
       "bathrooms": 4,
       "area": 38,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -2380,6 +2471,7 @@
       "bathrooms": 4,
       "area": 133,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -2406,6 +2498,7 @@
       "bathrooms": 3,
       "area": 67,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -2432,6 +2525,7 @@
       "bathrooms": 1,
       "area": 59,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -2458,6 +2552,7 @@
       "bathrooms": 2,
       "area": 73,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -2484,6 +2579,7 @@
       "bathrooms": 5,
       "area": 82,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -2510,6 +2606,7 @@
       "bathrooms": 4,
       "area": 105,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Surat Thani",
@@ -2536,6 +2633,7 @@
       "bathrooms": 1,
       "area": 34,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chiang Mai",
@@ -2562,6 +2660,7 @@
       "bathrooms": 1,
       "area": 126,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chon Buri",
@@ -2588,6 +2687,7 @@
       "bathrooms": 3,
       "area": 59,
       "area_type": "sqm",
+      "date": "2024-06-29",
       "geo": {
           "country": "Thailand",
           "province": "Chiang Mai",

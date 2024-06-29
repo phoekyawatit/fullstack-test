@@ -16,8 +16,8 @@
                     <option>-</option>
                     <option value="price-asc">Price: Low to High</option>
                     <option value="price-desc">Price: High to Low</option>
-                    <option value="date-asc">Date: Newest First</option>
-                    <option value="date-desc">Date: Oldest First</option>
+                    <option value="date-desc">Date: Newest First</option>
+                    <option value="date-asc">Date: Oldest First</option>
                 </select>
             </div>
         </div>
@@ -30,6 +30,7 @@
                 <p>Type: {{property.property_type}}</p>
                 <p>Bathroom: {{property.bathrooms}} , Bedroom: {{property.bedrooms}}</p>
                 <p>Area: {{property.area}} {{property.area_type}}</p>
+                <p>Created on {{property.date}}</p>
             </div>
         </div>
         <div class="text-end" v-if="fitlerProperties.length">
@@ -91,7 +92,7 @@ export default {
                     return  sortinType[1] == 'asc' ? this.fitlerProperties.slice(from, to).sort((a,b) => a.price - b.price) : this.fitlerProperties.slice(from, to).sort((a,b) => b.price - a.price)
                 }
                 if (sortinType[0] == 'date') {
-                    return  sortinType[1] == 'asc' ? this.fitlerProperties.slice(from, to).sort((a,b) => a.id - b.id) : this.fitlerProperties.slice(from, to).sort((a,b) => b.id - a.id)
+                    return  sortinType[1] == 'asc' ? this.fitlerProperties.slice(from, to).sort((a,b) => new Date(a.date) - new Date(b.date)) : this.fitlerProperties.slice(from, to).sort((a,b) => new Date(b.date) - new Date(a.id))
                 }
             }
             return this.fitlerProperties.slice(from, to);
