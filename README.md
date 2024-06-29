@@ -2,16 +2,16 @@
 
 # Set up the project
 git clone https://github.com/phoekyawatit/fullstack-test.git <br/>
-git checkout main 
-git pull origin main
+git checkout main <br/>
+git pull origin main <br/>
 
 # Copy .env.example to .env
 cp .env.example .env
 
 # Docker build in html folder
-./vendor/bin/sail build
-/vendor/bin/sail up
-/vendor/bin/sail up -d
+./vendor/bin/sail build <br/>
+/vendor/bin/sail up <br/>
+/vendor/bin/sail up -d <br/>
 
 # If the ports are conflict , please change the port in .env
 
@@ -25,7 +25,7 @@ cp .env.example .env
 ./vendor/bin/sail php artisan db:seed --class=PropertySeeder
 
 # RUN frontend
-npm install
+npm install <br/>
 npm run dev
 
 
