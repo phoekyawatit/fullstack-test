@@ -15,7 +15,6 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->string('slug');
-            $table->string('code');
             $table->string('currency');
             $table->string('currency_symbol');
             $table->timestamps();

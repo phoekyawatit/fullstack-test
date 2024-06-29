@@ -20,12 +20,12 @@ return new class extends Migration
             $table->boolean('sold')->default(false);
             $table->integer('price');
             $table->tinyInteger('property_type');
-            $table->timestamps();
             $table->integer('bedrooms');
             $table->integer('bathrooms');
             $table->integer('area');
             $table->tinyInteger('area_type');
-            $table->index(['title', 'description']);
+            $table->index(['title']);
+            $table->timestamps();
         });
     }
 
