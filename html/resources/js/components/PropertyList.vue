@@ -47,7 +47,7 @@
 </template>
 </template>
 <script>
-import properties from '../../../../properties.json';
+import properties from '../properties.json';
 export default {
     name: 'PropertyList',
     data() {
