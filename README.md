@@ -10,8 +10,8 @@ cp .env.example .env
 
 # Docker build in html folder
 ./vendor/bin/sail build <br/>
-/vendor/bin/sail up <br/>
-/vendor/bin/sail up -d <br/>
+./vendor/bin/sail up <br/>
+./vendor/bin/sail up -d <br/>
 
 # If the ports are conflict , please change the port in .env
 
